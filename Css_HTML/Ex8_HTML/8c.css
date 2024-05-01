@@ -1,0 +1,14 @@
+.Google{
+  width: 400px;
+  display: block;
+  margin-left: 100px;
+}
+
+.SearchBox{
+  width: 450px;
+  height: 30px;
+  border: 10px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.15);
+  margin-left: 70px;
+  border-radius: 18px;
+}

@@ -1,0 +1,38 @@
+input{
+  background-color: rgb(246, 235, 235);
+  border: none;
+  display: block;
+  width: 292px;
+  height: 30px;
+  margin-bottom: 8px;
+}
+
+input::placeholder{
+  padding-left: 10px;
+}
+
+p{
+  font-size: 27px;
+  font-family: Arial;
+  font-weight: bold;
+}
+
+.Request{
+  color: white;
+  background-color: black;
+  height: 35px;
+  width: 120px;
+  margin-top: 15px;
+  cursor: pointer;
+}
+
+.Schedule{
+  color: black;
+  background-color: rgb(246, 235, 235);
+  height: 35px;
+  width: 120px;
+  border: none;
+  margin-left: 6px;
+  margin-top: 15px;
+  cursor: pointer;
+}

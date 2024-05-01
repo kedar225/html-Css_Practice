@@ -1,0 +1,12 @@
+input{
+  display: block;
+  margin-bottom: 3px;
+}
+
+p{
+  margin-top: 10px;
+  display: inline-block;
+  vertical-align: middle;
+  width: 180px;
+}
+

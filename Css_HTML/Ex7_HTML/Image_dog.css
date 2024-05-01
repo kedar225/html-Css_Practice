@@ -1,0 +1,13 @@
+.Load-Image{
+  width: 200px;
+  border-radius: 20px;
+}
+
+.Square-Image{
+  width: 200px;
+  height: 200px;
+}
+
+.Circular-Image{
+  border-radius: 50%;
+}
